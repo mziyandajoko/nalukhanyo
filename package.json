@@ -1,0 +1,20 @@
+{
+  "name": "nalukhanyo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Joko Mziyanda",
+  "license": "ISC",
+  "homepage": "https://github.com/mziyandajoko/nalukhanyo",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
