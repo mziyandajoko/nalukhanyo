@@ -8,7 +8,7 @@
   },
   "author": "Joko Mziyanda",
   "license": "ISC",
-  "homepage": "https://github.com/mziyandajoko/nalukhanyo",
+  "homepage": "https://mziyandajoko.github.io/nalukhanyo",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
